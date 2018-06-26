@@ -2,7 +2,7 @@ var db = require('./pghelper'),
     winston = require('winston');
 
 /**
- * Get a list of stores
+ * Get a list of stores - 
  * @param req
  * @param res
  * @param next
